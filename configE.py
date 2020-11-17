@@ -1,5 +1,3 @@
-import collections
-
 #this is a directory you want to cleanup
 baseDirectory = "/Users/niceUser/Downloads"
 
